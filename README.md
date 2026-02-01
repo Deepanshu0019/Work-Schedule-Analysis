@@ -1,4 +1,4 @@
-# Work-Schedule-Analysis-Dashboard
+# Work-Schedule-Analysis
 An Excel-based tool designed to efficiently manage and monitor employee work schedules, shifts, and attendance. The tracker helps supervisors plan daily and weekly shifts, avoid scheduling conflicts, and ensure optimal workforce utilization.
 
 Key Features:
