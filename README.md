@@ -17,12 +17,12 @@ Drop-down lists and data validation for error-free data entry
 
 Easy-to-update, user-friendly layout suitable for small to mid-sized teams
 
-Benefits:
+<img width="1888" height="596" alt="February" src="https://github.com/user-attachments/assets/bc540de1-b08f-4ec1-9920-a8792b813a23" />
 
-Improves scheduling accuracy and transparency
+<img width="1878" height="507" alt="January" src="https://github.com/user-attachments/assets/ff5c3192-4e5c-48b7-a482-6ce0845b6901" />
 
-Reduces manual errors and administrative effort
 
-Enhances workforce planning and productivity
 
-Provides quick insights for management decisions
+
+
+
