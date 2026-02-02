@@ -5,11 +5,7 @@ Key Features:
 
 Employee-wise shift allocation (day/night/rotational)
 
-Daily, weekly, and monthly schedule planning
-
 Automatic calculation of total working hours using Excel formulas
-
-Leave, overtime, and holiday tracking
 
 Conditional formatting for quick visual identification of shifts and absences
 
